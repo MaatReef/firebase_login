@@ -9,7 +9,7 @@
 ---
 ## Descripción 📘 
 
-Proyecto de autenticación utilizando firebase como respalado.
+Proyecto de autenticación utilizando firebase como respaldo.
 
 
 ---
